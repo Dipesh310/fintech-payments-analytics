@@ -1,0 +1,3 @@
+# Core pipeline uses Python 3.11+ standard library (zero runtime dependencies).
+# Optional test runner for local development / CI:
+pytest>=8.0.0

@@ -1,0 +1,6 @@
+payment_rail,txn_count,approved_gmv_usd,fee_revenue_usd,avg_ticket_usd,approval_rate_pct,risk_rate_pct,avg_latency_ms
+Credit Card,3997,653139.35,14042.51,179.78,90.89,4.68,888.0
+Bank Transfer,1003,359254.03,1616.7,388.8,92.12,1.79,1908.0
+UPI / Instant,5713,216233.12,389.48,39.02,97.01,0.82,419.0
+Debit Card,2484,202896.72,1927.62,87.38,93.48,1.89,761.0
+Digital Wallet,1803,86069.97,1076.1,49.92,95.62,1.33,510.0

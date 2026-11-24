@@ -1,0 +1,8 @@
+merchant_category,txn_count,approved_gmv_usd,fee_revenue_usd,avg_ticket_usd,fraud_rate_pct,chargeback_rate_pct,total_risk_rate_pct,risk_exposure_usd
+Cross-Border FX,890,179592.86,2121.18,229.95,5.62,2.81,8.43,32303.49
+Gaming & Digital,1229,98294.34,1193.0,87.06,3.09,1.46,4.56,6648.83
+Travel & Mobility,1950,272730.78,3603.7,147.58,1.18,0.77,1.95,8119.54
+E-Commerce,4184,436764.57,5496.79,110.43,1.27,0.55,1.82,10766.72
+SaaS & Cloud,2231,291124.36,3617.27,137.71,1.21,0.31,1.52,7116.7
+Food & Dining,2818,111228.74,1388.41,41.27,0.64,0.46,1.1,2311.09
+Utilities & Bills,1698,127857.54,1632.06,78.78,0.59,0.18,0.77,955.39

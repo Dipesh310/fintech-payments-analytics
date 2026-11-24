@@ -1,0 +1,41 @@
+transaction_id,timestamp,customer_id,payment_rail,merchant_category,region,amount_usd,status,risk_score,alert_reason
+TXN-007520,2026-10-23 16:59:29,CUST-01590,Digital Wallet,SaaS & Cloud,Bengaluru,38.18,FRAUD_FLAGGED,99.0,High Risk Score
+TXN-008532,2026-10-10 06:44:28,CUST-01739,Credit Card,E-Commerce,London,34.27,FRAUD_FLAGGED,99.0,High Risk Score
+TXN-010002,2026-07-14 16:41:29,CUST-01510,Credit Card,E-Commerce,Pune,187.36,FRAUD_FLAGGED,98.9,High Risk Score
+TXN-002959,2026-10-17 15:21:33,CUST-01523,Debit Card,E-Commerce,Singapore,22.98,FRAUD_FLAGGED,98.6,High Risk Score
+TXN-013864,2026-11-18 17:43:18,CUST-01672,UPI / Instant,E-Commerce,Bengaluru,30.76,FRAUD_FLAGGED,98.4,High Risk Score
+TXN-012925,2026-06-18 18:32:28,CUST-01701,UPI / Instant,Gaming & Digital,Mumbai,4.7,FRAUD_FLAGGED,98.4,High Risk Score
+TXN-007964,2026-11-22 08:05:50,CUST-00335,Credit Card,Cross-Border FX,Delhi NCR,215.35,FRAUD_FLAGGED,98.3,High Risk Score
+TXN-003563,2026-06-26 23:04:48,CUST-00863,Credit Card,Cross-Border FX,Bengaluru,202.16,FRAUD_FLAGGED,98.2,High Risk Score
+TXN-011370,2026-08-10 10:06:43,CUST-01675,UPI / Instant,Cross-Border FX,Delhi NCR,78.41,FRAUD_FLAGGED,98.1,High Risk Score
+TXN-011799,2026-11-19 19:49:29,CUST-01091,Debit Card,SaaS & Cloud,Singapore,81.32,FRAUD_FLAGGED,97.8,High Risk Score
+TXN-005403,2026-07-22 09:55:01,CUST-01821,UPI / Instant,Gaming & Digital,Hyderabad,38.46,FRAUD_FLAGGED,97.6,High Risk Score
+TXN-014831,2026-07-22 22:08:05,CUST-00410,UPI / Instant,Utilities & Bills,Mumbai,21.97,FRAUD_FLAGGED,97.6,High Risk Score
+TXN-013154,2026-11-14 14:12:38,CUST-00694,Credit Card,Cross-Border FX,Bengaluru,161.37,FRAUD_FLAGGED,97.5,High Risk Score
+TXN-000517,2026-06-30 22:55:50,CUST-02274,UPI / Instant,Food & Dining,Chennai,75.85,FRAUD_FLAGGED,97.5,High Risk Score
+TXN-013683,2026-09-06 04:14:01,CUST-00080,Debit Card,Gaming & Digital,Delhi NCR,37.15,FRAUD_FLAGGED,97.5,High Risk Score
+TXN-011686,2026-10-27 14:09:58,CUST-01685,Credit Card,Cross-Border FX,Singapore,1567.07,FRAUD_FLAGGED,97.3,Cross-Border High-Value
+TXN-004741,2026-09-25 12:09:33,CUST-00702,Credit Card,SaaS & Cloud,Pune,153.92,FRAUD_FLAGGED,97.3,High Risk Score
+TXN-006462,2026-08-08 12:14:33,CUST-01069,UPI / Instant,Gaming & Digital,Mumbai,8.01,FRAUD_FLAGGED,97.3,High Risk Score
+TXN-002426,2026-07-01 06:19:26,CUST-01757,Credit Card,E-Commerce,Delhi NCR,86.57,FRAUD_FLAGGED,97.2,High Risk Score
+TXN-005894,2026-07-12 15:07:09,CUST-01632,UPI / Instant,Cross-Border FX,Bengaluru,167.1,FRAUD_FLAGGED,97.1,High Risk Score
+TXN-005769,2026-08-23 21:19:10,CUST-01473,Credit Card,Cross-Border FX,Chennai,597.99,FRAUD_FLAGGED,96.9,High Risk Score
+TXN-005256,2026-07-20 22:55:42,CUST-01042,Digital Wallet,E-Commerce,Mumbai,64.5,FRAUD_FLAGGED,96.8,High Risk Score
+TXN-000735,2026-08-11 10:05:35,CUST-00886,Bank Transfer,Cross-Border FX,Delhi NCR,153.37,FRAUD_FLAGGED,96.6,High Risk Score
+TXN-011703,2026-05-29 12:58:55,CUST-01536,Credit Card,Cross-Border FX,Bengaluru,338.51,FRAUD_FLAGGED,96.5,High Risk Score
+TXN-012225,2026-07-24 00:59:44,CUST-00669,UPI / Instant,Utilities & Bills,Hyderabad,17.31,FRAUD_FLAGGED,96.5,High Risk Score
+TXN-014476,2026-10-04 18:14:38,CUST-00664,Bank Transfer,Travel & Mobility,Delhi NCR,388.57,FRAUD_FLAGGED,96.2,High Risk Score
+TXN-008924,2026-05-29 13:34:29,CUST-00422,Debit Card,Gaming & Digital,Singapore,52.97,FRAUD_FLAGGED,96.2,High Risk Score
+TXN-012509,2026-09-29 10:44:06,CUST-00765,Credit Card,Travel & Mobility,Bengaluru,254.31,FRAUD_FLAGGED,96.1,High Risk Score
+TXN-010817,2026-11-17 16:37:16,CUST-02346,UPI / Instant,E-Commerce,Hyderabad,15.64,FRAUD_FLAGGED,96.1,High Risk Score
+TXN-003339,2026-06-17 23:15:33,CUST-01250,Debit Card,Food & Dining,Mumbai,37.37,FRAUD_FLAGGED,96.0,High Risk Score
+TXN-003605,2026-01-10 19:32:27,CUST-01749,Credit Card,Cross-Border FX,Bengaluru,845.41,FRAUD_FLAGGED,95.8,Cross-Border High-Value
+TXN-014016,2026-02-19 21:57:24,CUST-00428,Credit Card,Cross-Border FX,Mumbai,30.81,FRAUD_FLAGGED,95.8,High Risk Score
+TXN-007549,2026-10-03 14:41:15,CUST-01187,Digital Wallet,Cross-Border FX,Mumbai,70.94,FRAUD_FLAGGED,95.7,High Risk Score
+TXN-003638,2026-10-25 23:04:31,CUST-00449,Credit Card,Gaming & Digital,Bengaluru,31.21,FRAUD_FLAGGED,95.6,High Risk Score
+TXN-012596,2026-10-21 23:45:06,CUST-02305,Credit Card,E-Commerce,Bengaluru,75.36,FRAUD_FLAGGED,95.5,High Risk Score
+TXN-009284,2026-09-30 01:07:59,CUST-01802,Credit Card,Food & Dining,Mumbai,32.49,FRAUD_FLAGGED,95.5,High Risk Score
+TXN-009302,2026-09-08 20:47:19,CUST-00590,Credit Card,E-Commerce,Hyderabad,1102.09,FRAUD_FLAGGED,95.4,High Risk Score
+TXN-010235,2026-07-22 15:00:54,CUST-00448,Credit Card,E-Commerce,London,61.02,FRAUD_FLAGGED,95.4,High Risk Score
+TXN-010973,2026-03-20 17:12:24,CUST-00060,Credit Card,Gaming & Digital,Singapore,91.94,FRAUD_FLAGGED,95.3,High Risk Score
+TXN-011575,2026-09-14 15:21:54,CUST-00154,Credit Card,Food & Dining,Pune,132.74,FRAUD_FLAGGED,95.2,High Risk Score
